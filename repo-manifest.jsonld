@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/ansible_hub/commit/3c113cfa92777c5c575b7b0c742d2a2080ff9a52",
       "git:hexsha": "3c113cfa92777c5c575b7b0c742d2a2080ff9a52",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.2"
     },
     {
